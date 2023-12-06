@@ -13,6 +13,3 @@
 	[title](https://www.example.com)
 	`code`
 
-
-
-
